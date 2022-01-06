@@ -31,6 +31,10 @@ namespace Day13Assignment
             string[] stringArray = { "111", "222", "333", "55", "999" };
             GenericMax<string> genString = new GenericMax<string>(stringArray);
             genString.PrintMaxValue();
+
+            Console.WriteLine("Find Max Integer Number!");
+            GenericMaximum<int> generic = new GenericMaximum<int>(112, 344, 432);
+            generic.MaxMethod();
         }
     }
 }
