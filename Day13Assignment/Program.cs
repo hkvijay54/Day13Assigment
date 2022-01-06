@@ -19,6 +19,18 @@ namespace Day13Assignment
             Console.WriteLine("FIND THE MAXIMUM String Value!");
             string stringoutput = (string)Uc3maximum_3_strings.MaximumString("apple ", "ball", "cat");
             Console.WriteLine(stringoutput);
+
+            int[] intArray = { 112, 344, 432, 555, 678 };
+            GenericMax<int> gen = new GenericMax<int>(intArray);
+            gen.PrintMaxValue();
+
+            double[] doubleArray = { 11.2, 34.4, 4.32, 55.5, 6.78 };
+            GenericMax<double> genDouble = new GenericMax<double>(doubleArray);
+            genDouble.PrintMaxValue();
+
+            string[] stringArray = { "111", "222", "333", "55", "999" };
+            GenericMax<string> genString = new GenericMax<string>(stringArray);
+            genString.PrintMaxValue();
         }
     }
 }
