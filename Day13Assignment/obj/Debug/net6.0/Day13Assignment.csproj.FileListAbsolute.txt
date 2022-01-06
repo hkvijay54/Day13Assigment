@@ -1,0 +1,15 @@
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\Day13Assignment.exe
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\Day13Assignment.deps.json
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\Day13Assignment.runtimeconfig.json
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\Day13Assignment.dll
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\ref\Day13Assignment.dll
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\bin\Debug\net6.0\Day13Assignment.pdb
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.csproj.AssemblyReference.cache
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.AssemblyInfoInputs.cache
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.AssemblyInfo.cs
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.csproj.CoreCompileInputs.cache
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.dll
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\ref\Day13Assignment.dll
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.pdb
+D:\downloads\abc\c# Day13 Asignment\Day13Assignment\Day13Assignment\obj\Debug\net6.0\Day13Assignment.genruntimeconfig.cache
